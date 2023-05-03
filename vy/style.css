@@ -1,0 +1,29 @@
+.box {
+    width: 400px;
+    height: 400px;
+    background-color: #ccc;
+    border: 1px solid #000;
+    background-color: blue;
+}
+.box1{
+width: 400px;
+    height: 20px;
+    background-color: #ccc;
+    border: 1px solid #000;
+    float: 0;
+    align-items: center;
+    text-align: center;
+}
+.box2 {
+    width: 400px;
+    height: 400px;
+    background-color: #ccc;
+    border: 1px solid #000;
+    float: 0;
+    align-items: center;
+    text-align: center;
+}
+.sb{
+    color: black;
+    
+}
